@@ -1,5 +1,5 @@
 # CSP-algorithm-Implementation
-Implementation of the CSP algorithm using a Sudoku Solver
+
          _   _              _   _                   _
         | | | | ___ _   _  | |_| |__   ___ _ __ ___| |
         | |_| |/ _ \ | | | | __| '_ \ / _ \ '__/ _ \ |
